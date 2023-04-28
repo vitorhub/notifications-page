@@ -1,0 +1,31 @@
+.componente{
+    display: flex;
+    max-width: 90%;
+    background-color: chocolate;
+}
+.componente img{
+    align-self: flex-start;
+}
+.message{
+    flex-direction: column;
+    max-width: 80%;
+    background-color: aqua;
+    cursor: pointer;
+}
+.periodo{
+    color: red;
+}
+.message small {
+    background-color: blueviolet;
+}
+.mostraBolinha{
+    width: 10px; height: 10px;
+    background-color: black;
+}
+.name{
+    display: flex;
+}
+.messageback p{
+    border: 1px solid #928a8a;
+    padding: 20px;
+}

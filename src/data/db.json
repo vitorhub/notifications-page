@@ -1,0 +1,70 @@
+[
+    {
+        "img": "avatar-mark-webber.webp",
+        "name": "Mark Webber",
+        "m": {
+            "message": "reacted to your recent post My first tournament today!",
+            "messageback": []
+        },
+        "periodo": "1m ago"
+    },
+    {
+        "img": "avatar-angela-gray.webp",
+        "name": "Angela Gray",
+        "m": {
+            "message": "followed you",
+            "messageback": []
+        },
+        "periodo": "5m ago"
+    },
+    {
+        "img": "avatar-jacob-thompson.webp",
+        "name": "Jacob Thompson",
+        "m": {
+            "message": "has joined your group Chess Club",
+            "messageback": []
+        },
+        "periodo": "1 day ago"
+    },
+    {
+        "img": "avatar-rizky-hasanuddin.webp",
+        "name": "Rizky Hasanuddin",
+        "m": {
+            "message": "sent you a private message",
+            "messageback": [
+                "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+                "Segundo texto",
+                "Terceiro texto"
+
+            ]
+        },
+        "periodo": "5 days ago"
+    },
+    {
+        "img": "avatar-kimberly-smith.webp",
+        "name": "Kimberly Smith",
+        "m": {
+            "message": "commented on your picture",
+            "messageback": [ "Texto qualquer" ]
+        },
+        "periodo": "1 week ago"
+    },
+    {
+        "img": "avatar-nathan-peterson.webp",
+        "name": "Nathan Peterson",
+        "m": {
+            "message": "reacted to your recent post 5 end-game strategies to increase your win rate",
+            "messageback": []
+        },
+        "periodo": "2 weeks ago"
+    },
+    {
+        "img": "avatar-anna-kim.webp",
+        "name": "Anna Kim",
+        "m": {
+            "message": "left the group Chess Club",
+            "messageback": []
+        },
+        "periodo": "2 weeks ago"
+    }
+]
